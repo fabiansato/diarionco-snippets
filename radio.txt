@@ -1,0 +1,2 @@
+<img src="https://i1.wp.com/diario-nco.com/wp-content/uploads/2020/05/rojo.jpeg" />
+<audio src="https://server.laradio.online/proxy/diarionco?mp=/stream" preload="" controls="controls"></audio>
